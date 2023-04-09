@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\bin\Debug\net6.0\Sistema de Controle de Clientes.exe
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\bin\Debug\net6.0\Sistema de Controle de Clientes.deps.json
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\bin\Debug\net6.0\Sistema de Controle de Clientes.runtimeconfig.json
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\bin\Debug\net6.0\Sistema de Controle de Clientes.dll
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\bin\Debug\net6.0\Sistema de Controle de Clientes.pdb
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.dll
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\refint\Sistema de Controle de Clientes.dll
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.pdb
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\Sistema de Controle de Clientes.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documents\Faculdade - Vinícius\ADS\Back-end SENAI\Sistema de Controle de Clientes\obj\Debug\net6.0\ref\Sistema de Controle de Clientes.dll
